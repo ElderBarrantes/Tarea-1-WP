@@ -1,0 +1,44 @@
+#parrafos{
+    color: black;
+    font-family: Georgia;
+    font-size: 40px;
+    text-align: justify;
+}
+#enlaces{
+    font-size: 30px;
+    color: orange;
+    text-decoration: none;
+}
+.img{
+     padding: auto 40px;
+}
+#productosVenta{
+     padding: 0 auto;
+     border: 3px solid #000;
+}
+
+.a{
+  text-decoration: none;
+  font-size: 30px;
+  padding: 10px 10px;
+  color: #0066ff;
+  font-family: monospace;
+  
+}
+.button{
+    padding: 10px 10px;
+    margin: 0 100px ;
+}
+#parrafoVenta{
+    font-size: 30px;
+    font-family: Courier;
+    /*text-align: right ;*/
+    color: #000;
+    border: 5px solid orange;
+    font-weight:bold ;
+    background-color: #99ccff; 
+    
+}
+
+
+
